@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Snake eating my contribuition graph
 ![snake gif](https://github.com/thllz/thllz/blob/output/github-contribution-grid-snake.gif)
