@@ -43,11 +43,12 @@ GitHub Stats
 </p>
 
 <!-- 
-Most Used Languages
--->
+Most Used Languages (Not working)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thllz&layout=compact" />
 </p>
+-->
+
 
 <!-- 
 Profile Views Counter
