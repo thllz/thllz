@@ -1,9 +1,27 @@
- Hi there 👋
-- 🌱 I’m currently learning React / Context API
+ Hey!👋
+ 
+ ```javascript
+- const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Docker"],
+      },
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
 
 <!--
 **thllz/thllz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
