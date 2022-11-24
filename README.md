@@ -25,7 +25,7 @@ const aboutMe = {
       },
       backEnd: {
          js: [
-         {"Learning" :"Docker"}
+         {"Learning" :"MysQL"}
          ],
       },
    },
