@@ -25,7 +25,7 @@ const aboutMe = {
       },
       backEnd: {
          js: [
-         {"Learning" :"Sequelize"}
+         {"Learning" : "Sequelize"}
          ],
       },
    },
