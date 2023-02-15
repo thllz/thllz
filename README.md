@@ -15,18 +15,19 @@ About me
  ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   name: ["Thelisom"],
+   name: ["Thelisom Souto"],
    nickName: ["thllz"],
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [JavaScript, TypeScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
+         js: ["React.js", "Context-API", "Router", "RTL", "Jest"],
+         css: ["Bootstrap", " Tailwind", "CSS-Pure", "Styled-Components",]
       },
       backEnd: {
-         js: [
-         {"Learning" : "Sequelize"}
-         ],
+         js: ["Node.js", "Sequelize", "JWT"]
+      },
+      dataBase: {
+      rdbms: ["MySQL"],
       },
    },
    currentOccupation: ["Studying at Trybe"],
