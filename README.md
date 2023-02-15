@@ -20,7 +20,7 @@ const aboutMe = {
    code: [JavaScript, TypeScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React.js", "Context-API", "Router", "RTL", "Jest"],
+         js: ["React.js", "React Hooks", "Context-API", "Redux","Router", "RTL", "Jest"],
          css: ["Bootstrap", " Tailwind", "CSS-Pure", "Styled-Components",]
       },
       backEnd: {
