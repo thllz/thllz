@@ -20,14 +20,14 @@ const aboutMe = {
    code: [JavaScript, TypeScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React.js", "React Hooks", "Context-API", "Redux","Router", "RTL", "Jest"],
-         css: ["Bootstrap", " Tailwind", "CSS-Pure", "Styled-Components",]
+         js: ["React.js", "React Hooks", "Context-API", "Redux", "Router", "RTL", "Jest"],
+         css: ["Bootstrap", " Tailwind", "CSS-Pure", "Styled-Components", "MaterialUI"]
       },
       backEnd: {
-         js: ["Node.js", "Sequelize", "JWT"]
+         js: ["Node.js", "Sequelize", "JWT", "API Rest", "MSC Architecture", "SQL", "NoSQL", "POO" ]
       },
       dataBase: {
-      rdbms: ["MySQL"],
+      rdbms: ["MySQL", "MongoDB"],
       },
    },
    currentOccupation: ["Studying at Trybe"],
