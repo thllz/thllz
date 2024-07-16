@@ -30,7 +30,7 @@ const aboutMe = {
       rdbms: ["MySQL", "MongoDB"],
       },
    },
-   currentOccupation: ["Studying at Trybe"],
+   currentOccupation: ["Studying"],
 };
 ```
 <h2 align="center">
